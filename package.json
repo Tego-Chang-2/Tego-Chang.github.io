@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://Tego-Chang.github.io",
+  "homepage": "https://Tego-Chang.github.io/Tego-Chang.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tego-Chang/Tego-Chang.github.io.git"
+    "url": "https://github.com/Tego-Chang/Tego-Chang.github.io"
   },
   "engines": {
     "node": ">=14.x"
